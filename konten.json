@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "name": "MVCS Dashboard",
+    "version": 1
+  },
+  "preset": "profile",
+  "groups": [
+    {
+      "id": "82ea599f-cf4c-4f5c-b03c-a19ff32f1298",
+      "title": "konten",
+      "columns": 2,
+      "items": []
+    }
+  ]
+}
